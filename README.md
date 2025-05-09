@@ -1,16 +1,1 @@
 # Git-Tutorial
-
-1. make clone of github repository to your local system
->> git clone https://github.com/MrMurmu/Git-Tutorial.git
-
-2. change directory
->> cd Git_Tutorial
-
-3. Clear terminal
->> clear
-
-4. see all file of entire repository
->> ls
-
-5. Acdess hideen file
-ls -a
