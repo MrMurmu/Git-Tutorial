@@ -1,0 +1,13 @@
+make repo on github
+
+clone on vs code
+
+change directory
+
+work on that repo
+change code 
+add code
+
+addcommit
+
+push
