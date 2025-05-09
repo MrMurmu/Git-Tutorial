@@ -1,0 +1,5 @@
+git rm test.txt
+
+git commit -m "delete file"
+
+git push origin main
