@@ -1,0 +1,14 @@
+mkdir folder_name
+
+git init
+
+git remote add origin <repo link>
+
+git remote -v (to verify remote)
+
+git branch (to check which branch i am now)
+
+git branch -m main ( to change branch name)
+
+git push -u origin main (create sort command for push to git in future)
+later write only (git push) for push to github
